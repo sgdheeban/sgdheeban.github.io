@@ -19,6 +19,22 @@ categories: jekyll draft
   - Engineer first + Product = Elon Musk of Tesla, SpaceX & more
   - Engineer first + Business = Sridhar Vembu of Zoho
   - Engineer first + Business = Bill Gates of Microsoft
+  - Strategy first + Cricket = Dhoni of Cricket
+  - Strategy first + Politics = your top politicians or Prime Ministers or Presidents
+
+- I am personally extrapolating from the above observation that the recepie for leadership is
+  - Acknowledge that it comes in every form and shape
+  - Organization takes the DNA of the leader
+  - It takes at least 3 components that I know of to form a leader
+    - Mindset of giving than receiving, probably in-born (i think this is rare) or shaped by life (i think this is common)
+    - A core insight, a special secret sauce, that a leader realizes and hones consciously (like the secret tricks of a magacian)
+    - A core skill, a technical skill, inclination in a chosen discipline, that they advance consciously over a period of time
+
+- Another realizatio of mine is listen to Jeff recently formulate success at the the top as follows, but I think it's true and timeless for leaders at all levels
+  - Jeff Bezos reformulated founder net worth as tracking value created for others, instead of value captured for self
+  - Once again a genius stroke of clarity, I have not heard from other top leaders, and got me thinking
+    - I think this is generally true of life itself, when we behave with our loved ones, say our spouse, kid or parents, we are this way naturally, when it comes to others we are the opposite, probably a folly of human nature
+    - Leaders just realize this and right the wrong, live normally and the capitalistic system identifies this behavior or mindset change and rewards them with some brownie points (money), if certain other tactical procedures are followed such as building startups to sell or rising through the career ladder
 
 - For ever prototypical archetype, there are a 1000 such samples in Fortune 100, 1000 & the remaining Unfortune rest, doing the same thing
 
