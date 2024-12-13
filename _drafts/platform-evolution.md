@@ -6,6 +6,8 @@ categories: jekyll draft
 ---
 - these are my perspective, my could be incomplete, if so, I might write a follow up post in the future with more experience
   - pls email if there is any counter thoughts, all views welcome
+  - we cover these topics in this blog, because I believe these are small invisible, incosequential pebbles that comes in our way and endup becoming a roadblock to build complex systems
+  - so much a note to self than others
   
 - Platform is always there since day-1
 - Frontend depends on distribution constrains - browser, tomorrow ai
