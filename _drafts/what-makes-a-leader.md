@@ -5,6 +5,8 @@ date:   2024-12-10 14:49:30 -0800
 categories: jekyll draft
 ---
 
+personal value add?
+
 - these are my perspective, my could be incomplete, if so, I might write a follow up post in the future with more experience
   - pls email if there is any counter thoughts, all views welcome
 

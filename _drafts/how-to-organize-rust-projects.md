@@ -1,17 +1,13 @@
 ---
 layout: post
-title:  "Uniquely Rust"
+title:  "How to organize rust projects"
 date:   2024-12-10 14:49:30 -0800
 categories: jekyll draft
 ---
 
-- why is rust a new paradigm
-- what's unique about rust
-- what are the hard parts
-- what's familiar and what's unfamiliar
-- learning resources for rust
-- my personal anecdote on why rust
-- personal value add - link to github code for trying, with helpful readme
+- rust is opinionated even about how to organize projects
+- built in frameworks, aka crates for everything including testing
+- personal value add, link to github with helpful readme
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
